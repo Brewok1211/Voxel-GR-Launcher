@@ -1,0 +1,9 @@
+node_modules/
+dist/
+resources/
+main.js
+preload.js
+index.html
+admin.html
+package.json
+package-lock.json
